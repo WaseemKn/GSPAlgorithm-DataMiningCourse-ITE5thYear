@@ -1,4 +1,4 @@
 # GSPAlgorithm-DataMiningCourse-ITE5thYear
 Here we've defined some drivers to help implementing the GSP algorithm from scratch (with some simplifying assumptions, like not having an itemset of length > 1 withing a sequence, although it matches many real situations, like text mining and website clicks analyzing).
 ## BEFORE START, READ THIS:
-This code is credit to WASEEM KNTAR and it's for all BUT if you have an assignment anywhere about this algorithm I prefer reading the code first and understanding it (it's not hard) THEN you can benefit from it as you want.
+This code for all BUT if you have an assignment anywhere about this algorithm I prefer reading the code first and understanding it (it's not hard) THEN you can benefit from it as you want.
